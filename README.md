@@ -75,8 +75,3 @@ This approach improves robustness and reduces error compared to individual model
 - Extend the model to time-series forecasting
 - Build a lightweight dashboard or API for risk visualization
 - Explore deep learning approaches such as LSTM for temporal modeling
-## 📚 Acknowledgements
-
-This project was developed as part of a final year Computer Science project at Nottingham Trent University, integrating real-world scientific research with machine learning techniques.
-
-
